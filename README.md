@@ -1,5 +1,5 @@
 [![CI](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/nogibjj/Bob_mini_project_9.git/Supervised_Learning_Project_ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BobZhang26/mini_project_9/blob/main/Supervised_Learning_Project_ipynb.ipynb)
 
 ## Week 9: Cloud-Hosted Notebook Data Manipulation
 
