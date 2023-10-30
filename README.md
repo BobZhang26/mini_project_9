@@ -1,4 +1,6 @@
 [![CI](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{username}/{repository}/{branch}/{path})
+
 ## Week 9: Cloud-Hosted Notebook Data Manipulation
 
 ### summary 
